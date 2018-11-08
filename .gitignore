@@ -1,9 +1,7 @@
-CMakeCache.txt
-CMakeFiles
-CMakeScripts
-Testing
-Makefile
-cmake_install.cmake
-install_manifest.txt
-compile_commands.json
-CTestTestfile.cmake
+.cproject
+.project
+.settings
+build
+build.ninja
+cscope.*
+__pycache__/
